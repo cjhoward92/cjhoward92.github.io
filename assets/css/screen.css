@@ -115,9 +115,21 @@ table { border-collapse: collapse; border-spacing: 0; }
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?uzoogp');
+    src:  url('../fonts/icomoon.eot?uzoogp#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?uzoogp') format('truetype'),
+      url('../fonts/icomoon.woff?uzoogp') format('woff'),
+      url('../fonts/icomoon.svg?uzoogp#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+
 /* Apply these base styles to all icons */
 [class^="icon-"]:before, [class*=" icon-"]:before {
-    font-family: "casper-icons", "Open Sans", sans-serif;
+    font-family: "casper-icons", "icomoon", "Open Sans", sans-serif;
     speak: none;
     font-style: normal;
     font-weight: normal;
@@ -141,11 +153,11 @@ table { border-collapse: collapse; border-spacing: 0; }
     content: "\f602";
     font-size: 1.1em;
 }
-.icon-google-plus:before {
-    content: "\f603";
+.icon-linkedin:before {
+    content: "\eac9";
 }
-.icon-facebook:before {
-    content: "\f604";
+.icon-reddit:before {
+    content: "\eac6";
 }
 .icon-arrow-left:before {
     content: "\f605";

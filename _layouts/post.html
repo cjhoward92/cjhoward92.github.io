@@ -64,7 +64,7 @@ post_class: post-template
             <!-- If we want to display author's name and bio -->
             {% if site.author %}
                 <figure class="author-image">
-                    <a class="img" href="{{'/' | relative_url }}" style="background-image: url({{'/assets/images/profile.png' | relative_url}})">
+                    <a class="img" href="{{'/' | relative_url }}" style="background-image: url({{'/assets/images/profile.jpg' | relative_url}})">
                     <span class="hidden">{{site.author}}'s Picture</span></a>
                 </figure>
                 <section class="author">
@@ -72,7 +72,13 @@ post_class: post-template
                     <h4> {{ site.author }} </h4>
                     <!-- Author Bio -->
                     <p>
-                        Here goes the author description. You might want to place some links too in here
+                        Professional software developer since 2013. Worked at Amazon for a couple of years.
+                        Now I'm the VP of Engineering at <a href="https://nurtureboss.io">Nurture Boss</a>
+                    </p>
+                    <p>
+                        Check me out on
+                        <a target="_blank" href="https://twitter.com/carson_howard">Twitter</a>
+                        and <a target="_blank" href="https://linkedin.com/in/carson-howard-632b1752/">Linkedin</a>
                     </p>
                 </section>
             {% endif %}

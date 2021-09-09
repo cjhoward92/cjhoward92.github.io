@@ -9,7 +9,9 @@ paginate: 15
 baseurl: ""
 domain_name: "https://www.cjhoward.dev"
 google_analytics: "UA-XXXXXXXX-X"
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # Details for the RSS feed generator
 url: ""
@@ -17,3 +19,21 @@ author: "Carson Howard"
 
 # Disqus config
 disqus-shortname: ""
+
+twitter:
+  card: summary
+  username: carson_howard
+
+social:
+  name: Carson Howard
+  links:
+    - https://twitter.com/carson_howard
+    - https://www.linkedin.com/in/carson-howard-632b1752
+    - https://github.com/cjhoward92
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: Carson Howard
