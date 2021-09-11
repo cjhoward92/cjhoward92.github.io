@@ -1,6 +1,8 @@
-name: Journey of a Dev
-description: Blogging about data and software
-meta_description: "Blogging about data and software - by Carson Howard"
+name: Maunder on about Software
+description: A place for me to blog about software architecture, patterns, and years of bad design
+meta_description: |
+  A reference for engineers to learn through years of trial and error.
+  All the while picking through the ramblings of an old man.
 
 markdown: kramdown
 highlighter: rouge

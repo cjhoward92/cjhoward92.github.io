@@ -59,6 +59,20 @@
 
         $(".scroll-down").arctic_scroll();
 
+        $('.tab').click(function (event) {
+            event.preventDefault();
+
+            $('.tab.active').removeClass('active');
+            $('.tab-content.active').removeClass('active');
+            $(this).addClass('active');
+            var lang = $(this).data('lang');
+            var tabContents = $('.tab-content[data-lang="' + lang + '"]');
+            if (!tabContents || !tabContents.length) {
+                return;
+            }
+
+            $(tabContents[0]).addClass('active');
+        });
     });
 
     // smartresize

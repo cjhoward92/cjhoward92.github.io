@@ -12,3 +12,51 @@
 @import
 	"syntax"
 ;
+
+.tabs {
+	display: flex;
+	flex-direction: column;
+	font-family: "Open Sans", sans-serif;
+	position: relative;
+
+	ul {
+		list-style: none;
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-start;
+		margin: 0;
+		padding: 0;
+
+		&:first-child {
+			border-left: thin solid gray;
+		}
+
+		li {
+			min-width: 50px;
+			height: 100%;
+			padding: 4px 8px;
+			margin: 0;
+			box-sizing: content-box;
+			text-align: center;
+			background: lightgray;
+			border: thin solid gray;
+			border-left: none;
+
+			&:hover {
+				cursor: pointer;
+			}
+
+			&.active {
+				background: white;
+			}
+		}
+	}
+
+	.tab-content {
+		display: none;
+
+		&.active {
+			display: block;
+		}
+	}
+}
