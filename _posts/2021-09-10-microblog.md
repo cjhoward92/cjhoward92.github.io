@@ -7,7 +7,7 @@ categories: microblog
 tags: microblog programming
 ---
 
-I'm going to write a microblog. Each post will be under 300 words. I will include code examples in multiple languages, eventually.
+I'm going to write a microblog. Each post will be under 300 words (excluding code). I will include code examples in multiple languages, eventually.
 
 The point is to help me distill complex topics into simple examples not only for myself but anyone that stumbles upon this blog.
 
