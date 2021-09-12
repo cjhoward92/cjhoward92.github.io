@@ -18,8 +18,8 @@ called "recursive functions".
 
 #### Why is it hard?
 
-I think it's hard because engineers think of recursive functions as very abstract. Mapping them
-directly to a for or while loop can be a way to break down the abstraction. Next, I think recursion
+It's hard because engineers think of recursive functions as very abstract. Mapping them
+directly to a for or while loop can be a way to break down the abstraction. Next, recursion
 is hard because it can add a lot of complexity to an otherwise simple algorithm. Here is some simple code
 to append file paths:
 
@@ -58,11 +58,11 @@ for (const file of fileNames) {
 console.log(fullPath)
 {% endhighlight %}
 
-I think this illustrates how much complexity recursion can add. Practice taking typical loops and writing
-recursive versions of those functions. I think practice will help build the muscles necessary to
+This illustrates how much complexity recursion can add. Practice taking typical loops and writing
+recursive versions of those functions. Practice will help build the muscles necessary to
 understand more complex algorithms even if just blindly applying recusion isn't always a good idea.
 
-#### Why use it, then?
+#### Why use recursion?
 
 It can remove the need for stateful operations. See how in the loop we needed to keep a path variable
 and constantly mutate it? When using recursion the state is bound to a single function. This
