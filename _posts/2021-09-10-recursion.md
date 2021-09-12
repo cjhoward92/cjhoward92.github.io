@@ -3,7 +3,7 @@ layout: post
 title:  Recursion
 date:   2021-09-10 23:00:00
 description: Why is recursion difficult? Can we break it down to make it simple?
-categories: programming
+categories: microblog
 tags: learning functions programming
 ---
 

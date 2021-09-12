@@ -934,6 +934,16 @@ body:not(.post-template) .post-title {
     line-height: 1.75em;
 }
 
+.more {
+    margin-bottom: 2rem;
+}
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    line-height: 2rem;
+    height: 4rem;
+}
+
 /* list of author links - location / url */
 .author-meta {
     padding: 0;

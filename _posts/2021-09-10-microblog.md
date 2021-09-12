@@ -3,7 +3,7 @@ layout: post
 title:  Microblog
 date:   2021-09-10 22:00:00
 description: "Keep things short and simple."
-categories: microblog programming
+categories: microblog
 tags: microblog programming
 ---
 
