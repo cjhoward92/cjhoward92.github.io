@@ -13,6 +13,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 # Details for the RSS feed generator
 url: "https://www.cjhoward.dev"
