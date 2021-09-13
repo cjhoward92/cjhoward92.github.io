@@ -4,6 +4,7 @@ meta_description: |
   A reference for engineers to learn through years of trial and error.
   All the while picking through the ramblings of an old man.
 
+permalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
 highlighter: rouge
 logo: false

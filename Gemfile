@@ -6,4 +6,7 @@ gem "webrick"
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
+  gem "jekyll-seo"
+  gem "nokogiri"
+  gem "jekyll-redirect-from"
 end

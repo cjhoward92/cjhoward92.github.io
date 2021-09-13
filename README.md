@@ -39,6 +39,10 @@ Build page into `_site` folder
 * Author's profile with picture
 * Disqus comments
 
+## Running SEO plugin
+
+https://github.com/pmarsceill/jekyll-seo-gem
+
 ## Screenshots
 
 ![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
