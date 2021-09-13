@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-seo"
   gem "nokogiri"
   gem "jekyll-redirect-from"
+  gem "jekyll-sitemap"
 end

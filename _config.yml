@@ -12,9 +12,10 @@ google_analytics: "UA-207366192-1"
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Details for the RSS feed generator
-url: ""
+url: "https://www.cjhoward.dev"
 author: "Carson Howard"
 
 # Disqus config

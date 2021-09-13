@@ -37,6 +37,8 @@ GEM
     jekyll-seo (0.0.2)
     jekyll-seo-tag (2.7.1)
       jekyll (>= 3.8, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.1)
@@ -76,6 +78,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo
   jekyll-seo-tag
+  jekyll-sitemap
   nokogiri
   webrick
 
