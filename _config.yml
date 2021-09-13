@@ -10,7 +10,7 @@ logo: false
 paginate: 15
 baseurl: ""
 domain_name: "https://www.cjhoward.dev"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-207366192-1"
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
