@@ -1,8 +1,5 @@
 name: Maunder on about Software
-description: Where I discuss programming
-meta_description: |
-  A reference for engineers to learn through years of trial and error.
-  All the while picking through the ramblings of an old man.
+description: A place for me to relay my thoughts data, design patterns, architecture, and all things software.
 
 permalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
