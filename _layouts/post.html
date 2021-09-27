@@ -99,10 +99,11 @@ post_class: post-template
             <!-- Share links section -->
             {% include share.html %}
 
-            <!-- Disqus comments -->
-            {% if page.disqus %}
-                {% include disqus.html %}
-            {% endif %}
+            <p><strong>Subscribe to get notified when I release a post!</strong></p>
+            <form accept-charset="UTF-8" action="https://www.sendicate.net/subscribe/5jn9e9" method="post">
+                <input id="subscriber_email" name="subscriber[email]" type="text" />
+                <input name="commit" type="submit" value="Subscribe" />
+            </form> 
 
         </footer>
 
