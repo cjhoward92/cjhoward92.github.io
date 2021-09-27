@@ -9,13 +9,11 @@ tags: learning encapsulation programming
 
 This post is greater than 300 words. I tried.
 
-Encapsulation is often misunderstood as to just mean "A means of hiding data". Encapsulation is really a tool for hiding information _around_ data and how data is used, leading to highly extensible data structures.
+Encapsulation is often misunderstood as to just mean "a means of hiding data". Encapsulation is really a tool for hiding how you operate on data.
 
 #### What is encapsulation?
 
-Encapsulation is referred to as ["information hiding"](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)#Information_hiding). You use it to hide how you operate on data. It is easy to share code to manipulate data across your app. Instead, you can build encapsulated components to manage your data and reference those versus the data directly.
-
-For instance, say you have a contact with a name. You think the full name is a first and last name. So you write some code:
+Let's use an example. Say you have a contact with a name. You think the full name is a first and last name. So you write some code:
 
 {% highlight typescript %}
 const getFullName = (firstName: string, lastName: string): string => `${firstName} ${lastName}`;
@@ -101,7 +99,7 @@ Now you can just use `PersonName` to handle all of your name logic. Is is simple
 
 #### Why is encapsulation hard?
 
-Encapsulation is hard because it can feel simpler to use data directly. Even minor changes in the requirements around that data can lead to an explosion of new code. If you have referenced a single function in multiple places across your app new requirements can result in serious refactoring.
+It is hard because it can feel simpler to use data directly, but even minor changes in the requirements around that data can lead to an explosion of new code. If you have referenced a single function in multiple places across your app new requirements can result in serious refactoring.
 
 It is also difficult to determine the correct amount of encapsulation. Understanding your data and how it is used is key. You wouldn't need the abstraction above if you only reference first and last name one place in your application. As your system grows the need for encapsulation does, too.
 
