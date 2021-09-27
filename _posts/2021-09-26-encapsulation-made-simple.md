@@ -101,7 +101,7 @@ Now you can just use `PersonName` to handle all of your name logic. Is is simple
 
 #### Why is encapsulation hard?
 
-Encapsulation is hard because it can feel simpler to use the data you need everywhere it feels needed. Even minor changes in the requirements around that data can lead to an explosion of new code. If you have referenced a single function in multiple places across your app new requirements can result in serious refactoring.
+Encapsulation is hard because it can feel simpler to use data directly. Even minor changes in the requirements around that data can lead to an explosion of new code. If you have referenced a single function in multiple places across your app new requirements can result in serious refactoring.
 
 It is also difficult to determine the correct amount of encapsulation. Understanding your data and how it is used is key. You wouldn't need the abstraction above if you only reference first and last name one place in your application. As your system grows the need for encapsulation does, too.
 
