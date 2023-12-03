@@ -64,3 +64,12 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Install & Setup
+
+1. Setup [rbenv](https://github.com/rbenv/rbenv)
+2. Install the ruby version you want `rbenv install 3.1.4` (note you do not want ruby 3.2.x, the project will not build)
+3. Use the ruby version you want `rbenv local 3.1.4`
+4. Install bundler `gem install bundler`
+5. `bundle install`
+6. `./jekyll-local.sh serve` (this might fail if the jekyll version changes)
