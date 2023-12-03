@@ -3,7 +3,7 @@ layout: post
 title:  Don't cut quality
 date:   2023-12-03 12:00:00
 description: "Reduce scope but don't take shortcuts."
-categories: craftsman
+categories: craftsmanship
 tags: quality programming
 ---
 
