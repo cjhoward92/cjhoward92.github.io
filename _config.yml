@@ -1,5 +1,5 @@
-name: Maunder on about Software
-description: A place for me to relay my thoughts data, design patterns, architecture, and all things software.
+name: Just Ignore the Monkeys
+description: A place for me to relay my thoughts just about anything, with a strong emphasis on software related topics.
 
 permalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
