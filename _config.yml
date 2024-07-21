@@ -1,5 +1,5 @@
 name: Just Ignore the Monkeys
-description: A place for me to relay my thoughts just about anything, with a strong emphasis on software related topics.
+description: A place for me to ramble with a bias on software and business related topics.
 
 permalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
