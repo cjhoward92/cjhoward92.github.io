@@ -1,0 +1,30 @@
+---
+layout: post
+title:  Only you can stop yourself
+date:   2024-08-21 20:00:00
+description: "It's cliché, but if you believe it you can achieve it."
+categories: "Personal growth"
+tags: productivity potential
+---
+
+I believe I have unbounded potential.
+
+Some of you might read that statement and immediately jump to the conclusion that I’m arrogant or conceited. This might be true, to some degree, although I wonder if it’s a prerequisite to success. Also, that statement isn’t just for me, but a statement we should all feel deep within our beings. If you don’t, I feel sorry for you. Hopefully my thoughts here help you.
+
+To clarify - I don’t believe that I can do anything I want at any time without any preparation. I cannot, for example, become a world class Tennis player. I won’t dedicate every free minute I have to Tennis, which is a requirement. Plus, I strongly doubt I have the genetic abilities to take me there even if I did. When I say that I have unbounded potential, that potential is still fixed to a certain set of capabilities - even if I don’t know exactly what they all are (for instance, I don’t ever wish to be a painter, so maybe that’s enough to disqualify painting as a skill where my potential is unbounded).
+
+Let’s get to brass tacks - most of us stop ourselves from reaching our true potential. The only person that knows how capable you are is you. Yet, it seems like many of us allow others to dictate our potential. It’s quite common for others to keep you down - sometimes maliciously, sometimes from jealousy, and sometimes because they, themselves, don’t think something is achievable. Typical, mundane, conversations might be full of little quips that slowly erode your self confidence. Think about when you were a kid. You might have had some “dream career” that now feels totally unrealistic. At one point in time, that career might have been totally realistic, however, “reality” sets in, we realize we aren’t exceptional, so it’s out of the cards. What changes about our reality that makes certain dreams downgrade from achievable to pure fantasy? Nothing, really - it’s all psychological.
+
+Take a moment to think about a skill you want to develop. What’s stopping you from working on that skill right now? Skills that don’t require specialized, non-portable, equipment might be an exception - so let’s rule those out. Let’s think through cooking. Let’s also assume you have access to some sort of stove top or oven. We have everything we need, now we just need to define our goal. Cooking, but more specifically, what type of cooking? What about cooking a chicken breast? What about pan searing chicken breast? Chicken breast is notoriously difficult to cook well for home cooks, especially when pan searing. We sear that bad boy to 165F like the FDA says we should. The end result is a tough piece of leather. But, we want to get better and treat ourselves (or our loved ones) to a nice, juicy, piece of chicken.
+
+So how do we get better at cooking chicken? Cook chicken breast - a lot. Read articles on preparation style, watch youtube videos on the good oils to use, cook breast after breast until you get a feel for doneness. I’ll make a wager that, over the next 100 days, if you pan sear at least one breast per day and take at least some time to analyze the inputs (pan type, heat, oil, etc) and outputs (taste, texture, doneness, etc) after each cook you’ll end up much better at pan searing breast than before you started. The formula is simple: do the thing a lot and try to learn something about it each time. Oddly, this is really hard for many people to do consistently.
+
+The not-so-secret secret of life is that any skill requires practice to master. As it turns out, pretty much everything is a skill. It just requires hard work and that’s where most people stop. So, if you are willing to put in hard work, you’ll probably be better than most people. Will you be the best? Unlikely - again, genetics probably plays a role. You will, though, be so good compared to the average person that you and “the best” will be mostly indistinguishable.
+
+Hard work isn’t the only differentiator, though. I know plenty of people that absolutely bust their assess, they just never seem to make progress. If you don’t actively try to make progress, you won’t. And if you actively believe you can’t make progress (i.e. you can’t get better), you won’t. I don’t know how many people sit around and think they can’t improve upon some skill or activity. I do think that many people compare themselves to others and see what the others have achieved as unachievable to them. Comparison is the thief of joy - few aphorisms ring so true.
+
+Instead of comparing yourself to others in the negative, compare in the positive. “She accomplished X, therefore I can too.” Once the flood gates open, the tide is unstoppable. We see this often in performance athletes. Every Olympic cycle some Olympic or World Records are beaten. How is that? How do we always improve? Better training and equipment is only part of the answer. As soon as a goal is reached, the next goal is set. You should view your skills, your life, from the same perspective.
+
+The last piece of advice I’ll leave you with is this: don’t reach too far. Progress is slow, and incremental. You should actively strive for the next logical progression, not two or three progressions after that. The journey will feel more attainable and you’re more likely to stick with a realistic goal. Going from a Junior Engineer to a Principal Engineer in a single promotion cycle isn’t going to happen (simply for societal reasons, skills aside). Going from Junior Engineer to Mid-level Engineer is the correct path. Be realistic.
+
+I believe I’m successful in my endeavors partially (but consequentially) due to my mindset. I don’t think that having a negative mindset - I won’t get promoted, they are out to get me, the system is rigged, etc - would have taken me very far. Instead, I buckled down, looked to the next goal post, and got to work. It’s been fruitful thus far, so I might as well keep trying.
